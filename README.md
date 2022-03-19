@@ -1,1 +1,1 @@
-# right-alphabetic-triangle-ASCII-
+# right-ASCII-triangle
