@@ -29,6 +29,19 @@ Input:
 array size : 7
 Position : 2            
 array elements : 1 2 3 4 5 6 7
-
 Output:
 3 4 5 6 7 1 2 
+
+Input:
+6
+2
+1 3 5 7 9 11
+Output:
+5 7 9 11 1 3 
+	
+Input:
+5
+3
+1 2 3 4 5
+Output:
+4 5 1 2 3 	
